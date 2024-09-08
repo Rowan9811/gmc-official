@@ -1,0 +1,1 @@
+tellraw @a { "color": "#00FF00", "text": "[debug (wepons)]: loaded (spectral arrow = rocket)"}

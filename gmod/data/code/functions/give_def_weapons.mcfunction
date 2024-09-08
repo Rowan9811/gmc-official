@@ -1,0 +1,2 @@
+give @p amethyst_shard[custom_name='["",{"text":"physics gun","italic":false}]',lore=['[""]','["",{"text":"left click:","italic":false}]','["",{"text":"picks up an object/let it Go","italic":false}]','[""]','["",{"text":"right click:","italic":false}]','["",{"text":"freezes the object","italic":false}]'],enchantment_glint_override=true,custom_data={tag:mm_ph_gun},unbreakable={}]
+execute as @p run function weapons:crowbar/give

@@ -1,0 +1,1 @@
+give @s netherite_hoe[custom_model_data=3,rarity="common",item_name="crowbar",unbreakable={show_in_tooltip:0b},attribute_modifiers={modifiers:[{type:"generic.attack_damage",amount:1,slot:mainhand,uuid:[I;-12483,77616,16307,-155232],operation:add_value,name:1725406807638}]}]
